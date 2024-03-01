@@ -1,19 +1,20 @@
-# TÍTULO DO PROJETO
+# CAPACITANDO PROFESSORES EM ROBÓTICA
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
-`Disciplina: NOME DA DISCIPLINA`
-`20XX - Semestre XX`
+`Disciplina: Mentoring II - Sociedade Digital`
+`2024 - Semestre 1º`
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Gabriela Ribeiro Batista
+- Gabrielle do Carmo Assunção
+- Geovana Silva Nogueira
+- Matheus Bragi Silva
+- Rayara Sousa Carvalho
 
 ## Professor
 
-- Mestre Yoda
+- Luciana de Nardin
 
 # Documentação
 
