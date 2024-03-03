@@ -1,6 +1,9 @@
 # Introdução
 
-Texto **descritivo** com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Os professores das escolas estaduais de Poços de Caldas - MG receberam da Secretaria de Estado de Educação um kit de robótica para utilização em sala de aula junto aos alunos do Ensino Médio. Entretanto, os kits recebidos não são utilizados pelos educadores, uma vez que estes não possuem treinamento e conhecimentos necessários para trabalhar com os materiais em sala de aula, a fim de trazer aos alunos conceitos e aplicações práticas envolvendo tecnologia, inovação e robótica.
+
+O projeto consiste em ajudar o público-alvo do problema, sendo eles, os educadores da rede pública de ensino que trabalham nessas escolas estaduais, a aprender a trabalhar com os kits de robótica recebidos, a fim de aproximar os temas trabalhados em sala de aula com a tecnologia, e inserir conceitos de mecânica e robótica no dia a dia dos alunos.
+
 
 ## Problema
 Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
