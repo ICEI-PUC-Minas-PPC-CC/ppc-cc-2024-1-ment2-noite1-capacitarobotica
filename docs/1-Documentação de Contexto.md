@@ -26,12 +26,15 @@ Apresente também alguns (pelo menos 2) objetivos específicos dependendo de ond
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com o tema escolhido. Indique as razões pelas quais vocês escolheram seus objetivos específicos. Aproveite para "quantificar" o problema. Utilize dados, pesquisas etc que justifiquem porque é importante resolver/minimizar o problema. 
+De acordo com a matéria: “Falta formação em tecnologia aplicada aos professores”, da revista Veja(Abril) , cerca de 75% dos professores carecem de conhecimentos sobre a tecnologia que possam ser aplicados em sala de aula, que poderiam ser amenizados com cursos voltados a sua capacitação (Veja, 2024). O que se aplica também a realidade dos professores da rede estadual de Poços de Caldas - MG, que receberam kits de robóticas para serem utilizados em sala de aula, auxiliando no desenvolvimento dos alunos, desenvolvendo seu raciocínio lógico, sua autonomia, exercitando sua criatividade e despertando interesses na tecnologia. Entretanto, estes professores não receberam o treinamento adequado para a utilização e ensino dos mesmos, tornando os recursos obsoletos. A fim de amenizar este problema com nossos conhecimentos, iremos desenvolver um curso, voltado a capacitação destes professores, utilizando a robótica educacional, para que nossa sociedade seja capaz de incentivar nossos jovens a serem criativos, e visionários, tornando o mundo um lugar cada vez mais inovador.(SESI SENAI, 2024).
+ 
+REFERÊNCIAS:
 
-O grupo de trabalho pode também fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo, mas não se esqueça, de citar em seu texto todas as referências que forem utilizadas seguindo os padrões da ABNT e também, de incluir tais referências no documento das Referências bibliográficas.
+Veja (Abril). "Falta formação em tecnologia aplicada aos professores, diz pesquisa". Disponível em: [https://veja.abril.com.br/tecnologia/falta-formacao-em-tecnologia-aplicada-aos-professores-diz-pesquisa/](https://veja.abril.com.br/tecnologia/falta-formacao-em-tecnologia-aplicada-aos-professores-diz-pesquisa/). Acesso em: [04/03/2024].
+    
+ SESI SENAI. "Robótica educacional: descubra quais são os benefícios". Disponível em: [https://blog.sesisenai.org.br/robotica-educacional-descubra-quais-sao-os-beneficios/](https://blog.sesisenai.org.br/robotica-educacional-descubra-quais-sao-os-beneficios/). Acesso em: [04/03/2024].
 
-> **Links Úteis**:
-> - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
+
 
 ## Público-Alvo
 
