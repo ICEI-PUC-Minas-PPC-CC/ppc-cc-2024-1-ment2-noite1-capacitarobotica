@@ -38,12 +38,5 @@ Veja (Abril). "Falta formação em tecnologia aplicada aos professores, diz pesq
 
 ## Público-Alvo
 
-Descreva quem serão as pessoas que usarão a sua aplicação ou se beneficiarão da ação extensionista, indicando os diferentes perfis. O objetivo aqui não é definir quem serão os clientes/beneficiados ou quais serão os papéis dos usuários na aplicação/ação extensionista. A ideia é, dentro do possível, conhecer um pouco mais sobre o perfil dos usuários: conhecimentos prévios, relação com a tecnologia, relações hierárquicas, etc.
 
-Adicione informações sobre o público-alvo por meio de uma descrição textual.
-
-> **Links Úteis**:
-> - [Público-alvo](https://blog.hotmart.com/pt-br/publico-alvo/)
-> - [Como definir o público alvo](https://exame.com/pme/5-dicas-essenciais-para-definir-o-publico-alvo-do-seu-negocio/)
-> - [Público-alvo: o que é, tipos, como definir seu público e exemplos](https://klickpages.com.br/blog/publico-alvo-o-que-e/)
-> - [Qual a diferença entre público-alvo e persona?](https://rockcontent.com/blog/diferenca-publico-alvo-e-persona/)
+O público-alvo deste projeto é constituído principalmente pelos professores das escolas estaduais de Poços de Caldas, especificamente aqueles que ainda não receberam assistência ou suporte para utilizar os kits de robótica fornecidos. Este grupo de professores enfrenta dificuldades na integração desses recursos em suas aulas, tornando sua utilização inviável. São profissionais que se encontram na faixa etária entre 30 e 60 anos e que desejam melhorar a dinâmica de ensino em suas salas sobre tecnologia, a fim de alavancar o interesse dos alunos nesse setor. O nível de conhecimento prévio irá variar entre cada profissional, podendo ser de nível básico até não saber nenhuma informação sobre o assunto. A relação com a tecnologia também é um fator individual de cada profissional, e a relação hierárquica que os professores ocupam é de autoridade e liderança na sala de aula, sendo responsáveis por transmitir conhecimento aos alunos. É importante destacar que Poços de Caldas possui um total de 10 escolas estaduais, dessa maneira, muitos professores almejam adotar novas estratégias de ensino para ampliar o currículo escolar de seus alunos.
