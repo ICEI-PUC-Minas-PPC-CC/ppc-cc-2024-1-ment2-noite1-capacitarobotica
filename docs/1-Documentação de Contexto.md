@@ -6,14 +6,7 @@ O projeto consiste em ajudar o público-alvo do problema, sendo eles, os educado
 
 
 ## Problema
-Nesse momento você deve apresentar o problema que seu grupo buscará resolver/minimizar. No entanto, não é a hora de comentar sobre a abordagem a ser utilizada para resolvê-lo.
-
-O grupo pode optar ainda, por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+Na tentativa de melhoria na educação, o governo do estado de Minas Gerais disponibilizou kits de robótica para os professores de rede pública de ensino, porém há uma falha nesse processo, infelizmente os professores não receberam nenhuma capacitação para trabalhar com o material. Analisando essa situação, compreendemos que seja necessário, de forma urgente, uma ajuda na capacitação didática e tecnológica correlacionada aos kits de robótica, fazendo com que professores em seus dias na escola possam utilizar tais matérias.
 
 ## Objetivos
 
