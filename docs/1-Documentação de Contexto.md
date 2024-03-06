@@ -6,7 +6,7 @@ O projeto consiste em ajudar o público-alvo do problema, sendo eles, os educado
 
 
 ## Problema
-Na tentativa de melhoria na educação, o governo do estado de Minas Gerais disponibilizou kits de robótica para os professores de rede pública de ensino, porém há uma falha nesse processo, infelizmente os professores não receberam nenhuma capacitação para trabalhar com o material. Analisando essa situação, compreendemos que seja necessário, de forma urgente, uma ajuda na capacitação didática e tecnológica correlacionada aos kits de robótica, fazendo com que professores em seus dias na escola possam utilizar tais matérias.
+O governo do estado de Minas Gerais disponibilizou kits de robótica para os professores de rede pública de ensino, porém há uma falha nesse processo, infelizmente os professores não receberam nenhuma capacitação para trabalhar com o material. 
 
 ## Objetivos
 
