@@ -10,12 +10,8 @@ Na tentativa de melhoria na educação, o governo do estado de Minas Gerais disp
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho que será realizado pelo grupo indicando qual é o objetivo geral que se busca atingir para solucionar/minimizar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+De forma simples, didática e efetiva. Este trabalho tem o objetivo de capacitar professores para utilizar no dia a dia da escola, os kits de robótica disponibilizado pelo governo do estado de Minas Gerais. Observando sempre os detalhes de forma individual, de cada dificuldade apresentada por professores perante a falta de capacitação para com os kits de robótica.
+Os dois objetivos especifícos que podem ser alcançados seria aulas melhores para os alunos, trazendo um estímulo na criatividade, desenvolvendo um trabalho em equipe e o ensino se torna mais atrativo, além disso os professores iram adquirir novos conheccimentos para inovar seu plano de aula.
 
 ## Justificativa
 
