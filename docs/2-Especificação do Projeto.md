@@ -35,10 +35,12 @@ Exemplo:
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Camila Fiães | Otimizar meu tempo e esforço | Conciliar os diferentes papéis que exerço. |
-|Camila Fiães | Ter acesso rápido e completo às informações sobre a doença de seu filho | Passar os detalhes para os médicos. |
+|Karina dos Reis | Trazer aulas dinâmicas, e diferentes de seu conteúdo. | Trabalhar as diferentes habilidades dos alunos, e expandindo seus conhecimentos. |
+|Karina dos Reis |  Receber orientações para a utilização do material didático sobre robótica recebidos pelo estado. | Dar sentido ao material recebido. |
+|Ryan |  Ter um direcionamento para começar seus estudos em robótica. | Tem muito interesse na área, mas não sabe por onde começar a estudar, devido a grande quantidade de conteúdos ofertada online. |
+|Ryan |  Ter aulas que chamem sua atenção e saiam da mesmice. | Desperta maior interesse nas aulas, e traz experiências diferentes. |
 
-Apresente aqui as histórias de usuário que são relevantes para o projeto de sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
+sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
 > **Links Úteis**:
 > - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
