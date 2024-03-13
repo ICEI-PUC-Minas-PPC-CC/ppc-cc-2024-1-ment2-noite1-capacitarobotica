@@ -2,30 +2,18 @@
 
 <span style="color:red">Pré-requisitos: <a href="1-Documentação de Contexto.md"> Documentação de Contexto</a></span>
 
-Definição do problema e ideia de solução a partir da perspectiva do usuário. É composta pela definição do diagrama de personas (identifiquem, no mínimo, 2 personas), histórias de usuários (identifiquem, no mínimo, 3 histórias de usuários por persona), requisitos funcionais, requisitos não funcionais e artefatos produzidos para levantamento de dados).
 
 ## Personas
 
-Exemplo:
-
-|**Camila Fiães**|           |                             | 
+|**Karina dos Reis**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 38 anos. **Naturalidade:** Contagem - Minas Gerais. **Ocupação:** Caixa de Supermercado.       |**Atribuições:** gerenciar operações com clientes usando caixas registradoras. 
-|**Motivações:** Deseja organizar e ter fácil acesso aos documentos médicos do seu filho que tem asma.  |**Frustações:** dificuldade para gerenciar a vida profissional e pessoal, pois, além de trabalhar fora, quando chega em casa tem de desempenhar os papeis de mãe, esposa e dona de casa. Ainda, o seu filho de 09 anos tem asma, portanto necessita de tratamento contínuo e atenção redobrada.   |**Hobbies, história:** almeja conseguir conciliar os diferentes papéis que exerce, pois atualmente está se sentindo extremamente sobrecarregada e por isso busca métodos para otimizar o seu tempo e esforço.
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 30 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Professora de Tecnologia.       |**Atribuições:** Ensina conceitos de tecnologia segundo a grade do novo ensino médio. 
+|**Motivações:** Karina quer proporcionar aulas mais interativas e dinâmicas aos seus alunos, aplicando os conceitos de tecnologia de forma prática, visando aumentar o interesse deles. Deseja tornar a tecnologia mais acessível aos alunos da rede pública, ensinando-os de forma mais divertida e inovadora.  |**Frustações:** Karina tem uma origem humilde e precisou batalhar para se tornar a primeira mulher de sua família a ter uma graduação. Foi por sentir a dor causada pela falta de uma educação de qualidade que quis se tornar professora, e se frustra por ver a falta de interesse dos alunos que tem a oportunidade de estudar e não dão valor a isso. É essa a razão de querer trazer inovação às suas aulas, mostrando a importância da educação e da tecnologia nos dias atuais.    |**Hobbies:** Em seu tempo livre gosta de explorar novas coisas, principalmente relacionadas à tecnologia, pois acha esta fascinante e adora descobrir novos meios de inserí-la no seu cotidiano.
 
-Enumere e detalhe as personas da sua solução. Para isso, se necessário, leia um pouco mais sobre o assunto nos seguintes links:
-
-> **Links Úteis**:
-> - [Rock Content](https://rockcontent.com/blog/personas/)
-> - [Hotmart](https://blog.hotmart.com/pt-br/como-criar-persona-negocio/)
-> - [O que é persona?](https://resultadosdigitais.com.br/blog/persona-o-que-e/)
-> - [Persona x Público-alvo](https://flammo.com.br/blog/persona-e-publico-alvo-qual-a-diferenca/)
-> - [Mapa de Empatia](https://resultadosdigitais.com.br/blog/mapa-da-empatia/)
-> - [Mapa de Stalkeholders](https://www.racecomunicacao.com.br/blog/como-fazer-o-mapeamento-de-stakeholders/)
->
-Lembre-se que você deve ser enumerar e descrever precisamente e personalizada todos os clientes/beneficiários ideais que sua solução almeja.
-
-Para selecionar as imagens de suas personas, utilize o site: https://this-person-does-not-exist.com/pt
+|**Ryan Pereira**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 15 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Aluno de escola estadual.       
+|**Motivações:** Ryan gosta de estudar tudo que envolva tecnologia. Por estudar em escola pública, ele não tem a informática inserida em seu aprendizado, apenas possui disciplinas tradicionais que lhe são apresentadas com textos, atividades e avaliações teóricas. Gostaria de aprender mais sobre conceitos e fundamentos da informática. |**Frustações:** Ryan  não consegue nutrir interesse pelas matérias que cursa na escola, pois acha o método de ensino entediante. Se frustra por não conseguir aprender de forma efetiva os conteúdos que precisa, pois não consegue se manter concentrado enquanto seus professores escrevem e falam durante 4 horas de aula.    |**Hobbies:** Adora videogames e jogos, pois gosta da sensação de entrar em um novo mundo onde a tecnologia é acessível e está dentro da sua realidade. Por isso, vive na casa de seu primo para jogarem juntos, já que não tem equipamentos tecnológicos em casa além de um celular, e sempre que pode, usa a internet da escola para pesquisar assuntos e vídeos interessantes sobre a tecnologia.
 
 ## Histórias de Usuários
 
