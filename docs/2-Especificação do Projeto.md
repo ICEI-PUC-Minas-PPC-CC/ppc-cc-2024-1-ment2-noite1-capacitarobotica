@@ -7,7 +7,7 @@
 
 |**Karina dos Reis**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/main/docs/img/karinadosreis.png" width="200" height="200"/>|**Idade:** 30 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Professora de Tecnologia.       |**Atribuições:** Ensina conceitos de tecnologia segundo a grade do novo ensino médio. 
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/main/docs/img/karinadosreis.png" width="200" height="200"/>|**Idade:** 30 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Professora de Tecnologia.|**Atribuições:** Ensina conceitos de tecnologia segundo a grade do novo ensino médio. 
 |**Motivações:** Karina quer proporcionar aulas mais interativas e dinâmicas aos seus alunos, aplicando os conceitos de tecnologia de forma prática, visando aumentar o interesse deles. Deseja tornar a tecnologia mais acessível aos alunos da rede pública, ensinando-os de forma mais divertida e inovadora.  |**Frustações:** Karina tem uma origem humilde e precisou batalhar para se tornar a primeira mulher de sua família a ter uma graduação. Foi por sentir a dor causada pela falta de uma educação de qualidade que quis se tornar professora, e se frustra por ver a falta de interesse dos alunos que tem a oportunidade de estudar e não dão valor a isso. É essa a razão de querer trazer inovação às suas aulas, mostrando a importância da educação e da tecnologia nos dias atuais.    |**Hobbies:** Em seu tempo livre gosta de explorar novas coisas, principalmente relacionadas à tecnologia, pois acha esta fascinante e adora descobrir novos meios de inserí-la no seu cotidiano.
 
 |**Ryan Pereira**|           |                             | 
@@ -21,10 +21,10 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
-|Karina dos Reis | Trazer aulas dinâmicas, e diferentes de seu conteúdo. | Trabalhar as diferentes habilidades dos alunos, e expandindo seus conhecimentos. |
-|Karina dos Reis | Gosto muito de ensinar tecnologia, e me sinto incapaz vendo recursos legais não sendo utilizados. | Afim de que os alunos possam desfrutar do conhecimento adquiridos apartir dos kits de robótica. |
-|Ryan |  Ter um direcionamento para começar seus estudos em robótica. | Tem muito interesse na área, mas não sabe por onde começar a estudar, devido a grande quantidade de conteúdos ofertada online. |
-|Ryan |  Ter aulas que chamem sua atenção e saiam da mesmice. | Desperta maior interesse nas aulas, e traz experiências diferentes. |
+|Karina dos Reis | Trazer aulas dinâmicas e diferentes para meu conteúdo. | Trabalhar as diferentes habilidades dos alunos e expandir seus conhecimentos. |
+|Karina dos Reis | Gosto muito de ensinar tecnologia e me sinto incapaz vendo recursos legais não sendo utilizados. | A fim de que os alunos possam desfrutar dos conhecimentos adquiridos a partir dos kits de robótica.|
+|Ryan Pereira |  Sempre quis aprender sobre tecnologia, mas os preços altos dos equipamentos desanimam. Na escola, também não tenho acesso a eles. | Expandir meus conhecimentos e explorar novas áreas na tecnologia, com a possibilidade de trabalhar nesse campo no futuro. |
+|Ryan Pereira |  Me sinto desmotivado nas aulas devido à falta de atividades dinâmicas e chateado por não poder visualizar os kits de robótica recebidos pela escola.| Quero ter mais interesse nas aulas para poder melhorar minhas notas e também me sentir mais animado em aprender novas matérias.|
 
 sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
