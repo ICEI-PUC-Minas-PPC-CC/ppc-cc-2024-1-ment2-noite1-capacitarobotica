@@ -22,8 +22,7 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
 |--------------------|------------------------------------|----------------------------------------|
 |Karina dos Reis | Trazer aulas dinâmicas, e diferentes de seu conteúdo. | Trabalhar as diferentes habilidades dos alunos, e expandindo seus conhecimentos. |
-|Karina dos Reis | Gosto muito de ensinar tecnologia, e se sente incapaz vendo recursos legais não sendo
-utilizados. | Para que os alunos possam desfrutar do conhecimento adquiridos apartir dos kits de robótica. |
+|Karina dos Reis | Gosto muito de ensinar tecnologia, e me sinto incapaz vendo recursos legais não sendo utilizados. | Afim de que os alunos possam desfrutar do conhecimento adquiridos apartir dos kits de robótica. |
 |Ryan |  Ter um direcionamento para começar seus estudos em robótica. | Tem muito interesse na área, mas não sabe por onde começar a estudar, devido a grande quantidade de conteúdos ofertada online. |
 |Ryan |  Ter aulas que chamem sua atenção e saiam da mesmice. | Desperta maior interesse nas aulas, e traz experiências diferentes. |
 
