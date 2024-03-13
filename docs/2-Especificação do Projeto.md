@@ -12,7 +12,7 @@
 
 |**Ryan Pereira**|           |                             | 
 |-------------------|-----------|-----------------------------|
-<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/Template-MentoringII/blob/main/docs/img/camilafiaes.png" width="200" height="200"/>|**Idade:** 15 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Aluno de escola estadual.       
+<img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/main/docs/img/ryanpereira.png" width="200" height="200"/>|**Idade:** 15 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Aluno de escola estadual.       
 |**Motivações:** Ryan gosta de estudar tudo que envolva tecnologia. Por estudar em escola pública, ele não tem a informática inserida em seu aprendizado, apenas possui disciplinas tradicionais que lhe são apresentadas com textos, atividades e avaliações teóricas. Gostaria de aprender mais sobre conceitos e fundamentos da informática. |**Frustações:** Ryan  não consegue nutrir interesse pelas matérias que cursa na escola, pois acha o método de ensino entediante. Se frustra por não conseguir aprender de forma efetiva os conteúdos que precisa, pois não consegue se manter concentrado enquanto seus professores escrevem e falam durante 4 horas de aula.    |**Hobbies:** Adora videogames e jogos, pois gosta da sensação de entrar em um novo mundo onde a tecnologia é acessível e está dentro da sua realidade. Por isso, vive na casa de seu primo para jogarem juntos, já que não tem equipamentos tecnológicos em casa além de um celular, e sempre que pode, usa a internet da escola para pesquisar assuntos e vídeos interessantes sobre a tecnologia.
 
 ## Histórias de Usuários
