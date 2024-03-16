@@ -9,9 +9,7 @@ O projeto consiste em ajudar o público-alvo do problema, sendo eles, os educado
 O governo do estado de Minas Gerais disponibilizou kits de robótica para os professores de rede pública de ensino, porém há uma falha nesse processo, infelizmente os professores não receberam nenhuma capacitação para trabalhar com o material. 
 
 ## Objetivos
-
-De forma simples, didática e efetiva. Este trabalho tem o objetivo de capacitar professores para utilizar no dia a dia da escola, os kits de robótica disponibilizado pelo governo do estado de Minas Gerais. Observando sempre os detalhes de forma individual, de cada dificuldade apresentada por professores perante a falta de capacitação para com os kits de robótica.
-Os dois objetivos especifícos que podem ser alcançados seria aulas melhores para os alunos, trazendo um estímulo na criatividade, desenvolvendo um trabalho em equipe e o ensino se torna mais atrativo, além disso os professores iram adquirir novos conheccimentos para inovar seu plano de aula.
+Este projeto visa oferecer treinamento eficaz e acessível aos professores para o uso dos kits de robótica fornecidos pelo governo do Estado de Minas Gerais, com foco nas necessidades individuais e nos desafios específicos enfrentados por eles devido à falta de familiaridade com esses recursos. Os dois objetivos especifícos que podem ser alcançados seriam um estímulo na criatividade dos alunos, desenvolvendo uma colaboração em equipe e um ambiente escolar engajador para os estudantes e os professores iriam adquirir novos conhecimentos para inovar seu plano de aula e enriquecer o desenvolvimento pedagógico.
 
 ## Justificativa
 
