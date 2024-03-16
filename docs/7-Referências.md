@@ -1,16 +1,20 @@
 # Referências
 
-[1] Veja (Abril). "Falta formação em tecnologia aplicada aos professores, diz pesquisa". Disponível em: https://veja.abril.com.br/tecnologia/falta-formacao-em-tecnologia-aplicada-aos-professores-diz-pesquisa/. Acesso em: [04/03/2024].
+FRANÇA, Valéria. Falta formação em tecnologia aplicada aos professores, diz pesquisa. Veja, 2023. Disponível em: <https://veja.abril.com.br/tecnologia/falta-formacao-em-tecnologia-aplicada-aos-professores-diz-pesquisa/>. Acesso em: 4 de mar. 2024.
 
-[2] SESI SENAI. "Robótica educacional: descubra quais são os benefícios". Disponível em: https://blog.sesisenai.org.br/robotica-educacional-descubra-quais-sao-os-beneficios/. Acesso em: [04/03/2024].
+FREIRE, Yhara. Robótica educacional: descubra quais são os benefícios. SESI SENAI, 2023. Disponível em: <https://blog.sesisenai.org.br/robotica-educacional-descubra-quais-sao-os-beneficios/>. Acesso em: 4 de mar. 2024.
 
-Escolas Estaduais em Poços de Caldas. Disponível em: https://escolas.com.br/estaduais/mg/pocos-de-caldas#:~:text=Veja%20abaixo%20a%20lista%20das,em%20Poços%20de%20Caldas%2C%20MG.
+Escolas Estaduais em Poços de Caldas. ESCOLAS.COM.BR. Disponível em: <https://escolas.com.br/estaduais/mg/pocos-de-caldas#:~:text=Veja%20abaixo%20a%20lista%20das,em%20Poços%20de%20Caldas%2C%20MG/>. Acesso em: 7 de mar. 2024.
 
-Como definir o público-alvo? Disponível em: https://www.zendesk.com.br/blog/o-que-e-publico-alvo/
+ZENDESK. "Como definir o público-alvo?". ZENDESK, 2024. Disponível em: <https://www.zendesk.com.br/blog/o-que-e-publico-alvo/>. Acesso em: 13 de mar. 2024.
 
-Como escrever histórias de usuário? Disponível em: https://medium.com/vertice/como-escrever-boas-users-stories-histórias-de-usuários-b29c75043fac
+SANTOS, Larissa. Como escrever histórias de usuário?. Medium, 2017. Disponível em: <https://medium.com/vertice/como-escrever-boas-users-stories-histórias-de-usuários-b29c75043fac/>. Acesso em: 13 de mar. 2024.
 
-Dicas sobre histórias de usuário. Disponível em: https://airfocus.com/blog/user-story-mistakes/
+FIRAK, Valentin. Dicas sobre histórias de usuário. airfocus, 2019. Disponível em: <https://airfocus.com/blog/user-story-mistakes/>. Acesso em: 13 de mar. 2024.
+
+Gerador de faces aleatórias. Disponível em: <https://this-person-does-not-exist.com/pt/>. Acesso em: 5 de mar. 2024.
+
+UMBLERBLOG. Guia para criação de personas. UMBLERBLOG, 2020. Disponível em: <https://blog.umbler.com/br/criacao-de-personas/?gad_source=1&gclid=EAIaIQobChMItte944T5hAMVlVxIAB3UhwgAEAAYASAAEgL9HfD_BwE/>. Acesso em: 13 de mar. 2024.
 
 
 
