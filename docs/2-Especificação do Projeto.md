@@ -15,6 +15,11 @@
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/main/docs/img/ryanpereira.png" width="200" height="200"/>|**Idade:** 15 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Aluno de escola estadual.  
 |**Motivações:** Ryan gosta de estudar tudo que envolve tecnologia. Por estudar em escola pública, ele não tem a informática inserida em seu aprendizado, apenas possui disciplinas tradicionais que lhe são apresentadas com textos, atividades e avaliações teóricas. Gostaria de aprender mais sobre conceitos e fundamentos da informática. |**Frustações:** Ryan  não consegue nutrir interesse pelas matérias que cursa na escola, pois acha o método de ensino entediante. Ele se frustra por não conseguir aprender de forma efetiva os conteúdos que precisa, pois não consegue se manter concentrado enquanto seus professores escrevem e falam durante 4 horas de aula.   |**Hobbies:** Ele adora videogames e jogos, pois gosta da sensação de entrar em um novo mundo onde a tecnologia é acessível e está dentro da sua realidade. Por isso, vive na casa de seu primo para jogarem juntos, já que não tem equipamentos tecnológicos em casa além de um celular, e sempre que pode, usa a internet da escola para pesquisar assuntos e vídeos interessantes sobre a tecnologia.
 
+|**Francisco Carvalho**|           |                             | 
+|-------------------|-----------|-----------------------------|
+<img src="https://github.com/Sourayy/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/main/docs/img/franciscocarvalho.png" width="200" height="200"/>|**Idade:** 50 anos. **Naturalidade:** Poços de Caldas - Minas Gerais. **Ocupação:** Diretor de escola estadual.  |**Atribuições:** Lidera uma instituição de ensino.
+|**Motivações:** Francisco sempre atuou como professor e, quando teve a oportunidade de se tornar diretor, aceitou prontamente, visto que ele sempre quis melhorar de alguma maneira a escola que ele trabalhava. Ele busca incentivar os professores a realizar aulas mais dinâmicas e que deixem os alunos interessados pelas matérias. |**Frustações:** Apesar de sua escola ter recebido kits de robótica que poderiam trazer novas experiências para os alunos, seus professores não conseguem utilizá-los em seus planos de aula, devido à falta de treinamento e conhecimento.   |**Hobbies:** Ele sempre foi um entusiasta da tecnologia, buscando notícias sobre essa área e maneiras de utilizá-las em seu desenvolvimento profissional.
+
 ## Histórias de Usuários
 
 Com base na análise das personas, foram identificadas as seguintes histórias de usuários:
@@ -26,12 +31,9 @@ Com base na análise das personas, foram identificadas as seguintes histórias d
 |Ryan Pereira |  Sempre quis aprender sobre tecnologia, mas os preços altos dos equipamentos desanimam. Na escola, também não tenho acesso a eles. | Expandir meus conhecimentos e explorar novas áreas na tecnologia, com a possibilidade de trabalhar nesse campo no futuro. |
 |Ryan Pereira |  Me sinto desmotivado nas aulas devido à falta de atividades dinâmicas e chateado por não poder utilizar os kits de robótica recebidos pela escola.| Quero ter mais interesse nas aulas para poder melhorar minhas notas e também me sentir mais animado em aprender novas matérias.|
 |Francisco Carvalho|Estou muito empolgado com a oportunidade de introduzir as aulas de robótica a partir dos materiais recebidos pelo estado, porém me deparei com a necessidade de uma capacitação para que os professores consiga lecionar as aulas.|Tenho a motivação de acrescentar as aulas de robótica na grade curricular, eu vejo grandes oportunidades para um destaque acadêmico tanto dos alunos quanto da escola.|
+|Francisco Carvalho |  Preciso que os professores consigam utilizar os novos materiais em sala de aula. |Para que o envio dos kits de robótica não tenha sido em vão. |
 
-sua solução ou para execução da sua prática extensionista/curso. As Histórias de Usuário consistem em uma ferramenta poderosa para a compreensão e elicitação dos requisitos funcionais e não funcionais da sua aplicação e também para identificar as dores que sua prática extensionista irá minimizar/sanar. Se possível, agrupe as histórias de usuário por contexto, para facilitar consultas recorrentes à essa parte do documento.
 
-> **Links Úteis**:
-> - [Histórias de usuários com exemplos e template](https://www.atlassian.com/br/agile/project-management/user-stories)
-> - [Como escrever boas histórias de usuário (User Stories)](https://medium.com/vertice/como-escrever-boas-users-stories-hist%C3%B3rias-de-usu%C3%A1rios-b29c75043fac)
-> - [User Stories: requisitos que humanos entendem](https://www.luiztools.com.br/post/user-stories-descricao-de-requisitos-que-humanos-entendem/)
-> - [Histórias de Usuários: mais exemplos](https://www.reqview.com/doc/user-stories-example.html)
-> - [9 Common User Story Mistakes](https://airfocus.com/blog/user-story-mistakes/)
+## Obs.1: Caso seu grupo vá desenvolver uma solução de software, as seções "requisitos funcionais", "requisitos não funcionais" e "restrições" DEVERÃO ser PREENCHIDAS.
+## Obs.2: Caso seu grupo vá desenvolver algum atividade que demande, uma pesquisa de campo através de questinários, a seção "artefatos para levantamento de dados" DEVERÁ ser PREENCHIDA.
+## Obs.3: Caso seu grupo não vá desenvolver nem uma solução de software e nem uma atividade que demande pesquisa de campo, as seções a seguir DEVERÃO ser REMOVIDAS.
