@@ -8,10 +8,6 @@ ODS 10 - Redução das Desigualdades: Este objetivo busca reduzir as desigualdad
 
 Considerando esses dois ODS, observamos que eles estão interligados de acordo com nosso projeto. Nosso objetivo é proporcionar aulas que possam oferecer novos conhecimentos tanto para os profissionais da educação quanto para os alunos. Isso pode contribuir para o desenvolvimento educacional de todos os envolvidos e ajudar a aprimorar o currículo dessas pessoas, ampliando as oportunidades de trabalho.
 
-> Links úteis:
-> - [Os 17 Objetivos de Desenvolvimento Sustentável](https://brasil.un.org/pt-br/sdgs)
-
-
 # 2) Detalhamento preliminar
 
 Esta seção deverá ser adaptada a proposta do grupo, de forma que:
