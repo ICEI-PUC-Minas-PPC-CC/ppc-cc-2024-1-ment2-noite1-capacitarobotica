@@ -1,8 +1,12 @@
 # 1) Objetivos de Desenvolvimento Sustentável
 
-Os 17 objetivos de Desenvolvimento Sustentável defnidos pela ONU (Organização das Nações Unidas) para as cidades, como parte da Agenda 2023, abrangem diferentes temas relacionados a aspectos sociais e ambientais.
+As ODS (Objetivos de Desenvolvimento Sustentável) são uma série de metas estabelecidas pelas Nações Unidas para promover o desenvolvimento sustentável globalmente. O ODS 4 e o ODS 10 se referem a objetivos específicos dentro dessa estrutura:
 
-Neste sentido, neste seção, seu grupo deverá contextualizar e justificar em qual dos 17 objetivos de Desenvolvimento Sustentável a temática do problema que seu grupo deseja resolver se encaixa.
+ODS 4 - Educação de Qualidade: Este objetivo visa garantir uma educação inclusiva, equitativa e de qualidade, promovendo oportunidades de aprendizado ao longo da vida para todos. Isso inclui desde o acesso à educação pré-escolar até oportunidades de aprendizado para adultos, além de assegurar que todos tenham acesso a uma educação de qualidade em todos os níveis.
+
+ODS 10 - Redução das Desigualdades: Este objetivo busca reduzir as desigualdades dentro e entre países. Isso inclui medidas para garantir a igualdade de oportunidades e reduzir a desigualdade de renda, bem como promover políticas sociais, econômicas e políticas inclusivas. O objetivo é garantir que ninguém seja deixado para trás no processo de desenvolvimento.
+
+Considerando esses dois ODS, observamos que eles estão interligados de acordo com nosso projeto. Nosso objetivo é proporcionar aulas que possam oferecer novos conhecimentos tanto para os profissionais da educação quanto para os alunos. Isso pode contribuir para o desenvolvimento educacional de todos os envolvidos e ajudar a aprimorar o currículo dessas pessoas, ampliando as oportunidades de trabalho.
 
 > Links úteis:
 > - [Os 17 Objetivos de Desenvolvimento Sustentável](https://brasil.un.org/pt-br/sdgs)
