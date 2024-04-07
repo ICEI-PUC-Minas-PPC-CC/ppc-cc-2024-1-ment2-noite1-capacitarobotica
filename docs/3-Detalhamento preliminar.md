@@ -10,7 +10,7 @@ Considerando esses dois ODS, observamos que eles estão interligados de acordo c
 
 # 2) Detalhamento preliminar
 O projeto Capacita Robótica, buscando levar conhecimentos gerais de robótica e tecnologia para as escolas estaduais de Poços de Caldas através de um curso utilizando o kit de robótica ofertado à elas, será colocado em prática na Escola Padrão, localizada na zona sul da cidade. Realizaremos aulas com os educadores da escola que mostrarem interesse no curso e desejam aprender a utilizar os kits, bem como aplicá-los em suas aulas através de projetos simples. Serão realizadas três aulas em três sábados diferentes, cada uma interligada à anterior, com cerca de 2 horas de duração. 
-Para realização dessas aulas, utilizaremos a apostila de robótica criada no semestre anterior por um aluno do curso de Ciência da Computação da PUC Poços de Caldas, que aborda não somente a lista de materiais disponíveis no kit oferecido às escolas, mas também a funcionalidade de cada um, e exemplos de projetos que podem ser feitos com esses materiais.
+Para realização dessas aulas, utilizaremos a apostila de robótica criada no semestre anterior por um aluno do curso de Ciência da Computação da PUC Poços de Caldas, que aborda não somente a lista de materiais disponíveis no kit oferecido às escolas, mas também a funcionalidade de cada um, e exemplos de projetos que podem ser feitos com esses materiais. Também prepararemos slides para proporcionar uma aula mais visual e acessível, permitindo que todos os alunos possam compreender melhor o conteúdo apresentado.
 
 Neste curso abordaremos os seguintes projetos práticos:
 - Protótipo de Semáforo: consiste no desenvolvimento de um protótipo de um semáforo de trânsito, fazendo os LEDs mudarem de cor alternadamente em um determinado espaço de tempo.
@@ -49,8 +49,17 @@ Ainda não é necessário incluir, neste momento, o material de apoio a ser util
 
 |Aula   | Descrição do conteúdo a ser abordado  | Tempo necessário |
 |------|-----------------------------------------|----|
-|1| Introdução à lógica de programação | 30 minutos | 
-|2| Introdução ao funcionamento de um compilador   | 20 minutos |
+|| Primeira aula | 2 horas| 
+|1| Instalação do Arduino IDE e explicação sobre o mesmo  | 20 minutos |
+|2| Explicação sobre os componentes que serão utilizados  | 30 minutos |
+|3| Realização do primeiro projeto: Semáforo  | 1 hora e 10 minutos |
+|| Segunda aula | 2 horas| 
+|1| Revisão dos componentes gerais | 30 minutos |
+|2| Realização do segundo projeto: Luminária automática | 1 hora e 30 minutos |
+|| Terceira aula | 2 horas| 
+|1| Revisão dos componentes gerais | 20 minutos |
+|2| Realização do terceiro projeto: Jogos Genius | 1 hora e 30 minutos |
+|3| Momento para responder possíveis dúvidas | 10 minutos |
 
 ## Resultados obtidos com pesquisa de campo, reuniões e/ou entrevistas
 
