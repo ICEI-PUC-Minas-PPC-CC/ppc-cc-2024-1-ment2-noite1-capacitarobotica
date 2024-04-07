@@ -9,7 +9,8 @@ ODS 10 - Redução das Desigualdades: Este objetivo busca reduzir as desigualdad
 Considerando esses dois ODS, observamos que eles estão interligados de acordo com nosso projeto. Nosso objetivo é proporcionar aulas que possam oferecer novos conhecimentos tanto para os profissionais da educação quanto para os alunos. Isso pode contribuir para o desenvolvimento educacional de todos os envolvidos e ajudar a aprimorar o currículo dessas pessoas, ampliando as oportunidades de trabalho.
 
 # 2) Detalhamento preliminar
-
+O projeto Capacita Robótica, buscando levar conhecimentos gerais de robótica e tecnologia para as escolas estaduais de Poços de Caldas através de um curso utilizando o kit de robótica ofertado à elas, será colocado em prática na Escola Padrão, localizada na zona sul da cidade. Realizaremos aulas com os educadores da escola que mostrarem interesse no curso e desejam aprender a utilizar os kits, bem como aplicá-los em suas aulas através de projetos simples. Serão realizadas três aulas em três sábados diferentes, cada uma interligada à anterior, com cerca de 2 horas de duração. 
+Para realização dessas aulas, utilizaremos a apostila de robótica criada no semestre anterior por um aluno do curso de Ciência da Computação da PUC Poços de Caldas, que aborda não somente a lista de materiais disponíveis no kit oferecido às escolas, mas também a funcionalidade de cada um, e exemplos de projetos que podem ser feitos com esses materiais.
 
 Neste curso abordaremos os seguintes projetos práticos:
 - Protótipo de Semáforo: consiste no desenvolvimento de um protótipo de um semáforo de trânsito, fazendo os LEDs mudarem de cor alternadamente em um determinado espaço de tempo.
