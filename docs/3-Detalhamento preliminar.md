@@ -14,8 +14,26 @@ Para realização dessas aulas, utilizaremos a apostila de robótica criada no s
 
 Neste curso abordaremos os seguintes projetos práticos:
 - Protótipo de Semáforo: consiste no desenvolvimento de um protótipo de um semáforo de trânsito, fazendo os LEDs mudarem de cor alternadamente em um determinado espaço de tempo.
+    Materiais:
+    - 3 leds (verde, amarelo e vermelho);
+    - 1 protoboard;
+    - 3 resistores;
+    - Jumpers diversos;
 - Luminária automática: os alunos vão desenvolver uma luminária inteligente que funciona através de um sensor de movimento, fazendo a lâmpada ser acendida somente com presença de movimentação no local.
-- Jogo Genius: será desenvolvido uma espécie de jogo de memória, onde uma sequência de luzes são acendidas e os jogadores devem replicar a sequência nos botões em ordem correta. 
+    Materiais:
+    - Arduino Uno;
+    - Protoboard;
+    - Sensor de Movimento PIR (Passive Infrared);
+    - LED (qualquer cor);
+    - Resistor (limita a corrente do LED);
+    - Cabos Jumper (fios de conexão);
+- Jogo Genius: será desenvolvido uma espécie de jogo de memória, onde uma sequência de luzes são acendidas e os jogadores devem replicar a sequência nos botões em ordem correta.
+    Materiais:
+    - LEDs Coloridos (4);
+    - Botões de Pressão (4);
+    - Resistores (4);
+    - Jumpers;
+    - Arduino UNO;
 
 Esta seção deverá ser adaptada a proposta do grupo, de forma que:
 a) Caso seu grupo vá desenvolver uma solução de software, as seções "projeto de interface" e "_user flow_" deverão ser feitas.
