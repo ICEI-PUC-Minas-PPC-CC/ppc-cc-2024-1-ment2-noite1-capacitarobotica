@@ -18,4 +18,4 @@ UMBLERBLOG. Guia para criação de personas. UMBLERBLOG, 2020. Disponível em: <
 
 Nações Unidas Brasil (n.d.). Objetivos de Desenvolvimento Sustentável. Disponível em: <https://brasil.un.org/pt-br/sdgs>. Acesso em: 28 de mar. 2024.
 
-
+REGIS, Yuri et al. Arduino Uno: Cartilha dos Projetos. Faculdade PUC Minas.s.d.
