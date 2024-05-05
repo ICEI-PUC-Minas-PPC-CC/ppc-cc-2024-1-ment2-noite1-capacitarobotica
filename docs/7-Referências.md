@@ -16,6 +16,6 @@ Gerador de faces aleatórias. Disponível em: <https://this-person-does-not-exis
 
 UMBLERBLOG. Guia para criação de personas. UMBLERBLOG, 2020. Disponível em: <https://blog.umbler.com/br/criacao-de-personas/?gad_source=1&gclid=EAIaIQobChMItte944T5hAMVlVxIAB3UhwgAEAAYASAAEgL9HfD_BwE/>. Acesso em: 13 de mar. 2024.
 
-Nações Unidas Brasil (n.d.). Objetivos de Desenvolvimento Sustentável. Disponível em: <https://brasil.un.org/pt-br/sdgs>. Acesso em: 28 de mar. 2024. Disponível em: <https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/main/Cartilha_arduino.pdf/>
+Nações Unidas Brasil (n.d.). Objetivos de Desenvolvimento Sustentável. Disponível em: <https://brasil.un.org/pt-br/sdgs>. Acesso em: 28 de mar. 2024.
 
-REGIS, Yuri et al. Arduino Uno: Cartilha dos Projetos. Faculdade PUC Minas.s.d.
+REGIS, Yuri et al. Arduino Uno: Cartilha dos Projetos. Faculdade PUC Minas.s.d. Disponível em: <https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/main/Cartilha_arduino.pdf/>
