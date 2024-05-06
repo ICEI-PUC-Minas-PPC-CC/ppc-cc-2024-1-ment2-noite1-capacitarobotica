@@ -14,4 +14,11 @@ Para acessar as fichas de feedback clique aqui: [Visualizar PDF](https://github.
 
 Fizemos um slide para auxiliar nas explicações e no desenvolvimento das aulas, pensando também que esse pode ser utilizado como material didático pelos professores em suas futuras aulas. 
 
-Para acessar o slide clique aqui: [Visualizar PDF](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/main/docs/Slide-CapacitaRobotica.pdf).
+Para acessar o slide clique aqui: [Visualizar PDF](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/main/docs/Slide-CapacitaRobotica.pdf)
+
+## Vídeos testes dos projetos:
+
+Realizamos testes referentes aos projetos presentes em nosso planejamento de aula, para averiguar possíveis erros e seu nível de dificuldade, abaixo estão os vídeos:
+1. Projeto Semáforo: https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/main/docs/img/ProjetoSemaforo.mp4
+2. Projeto Luminária Automática: https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/main/docs/img/ProjetoLuminaria.mp4
+
