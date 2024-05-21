@@ -9,7 +9,7 @@ O detalhamento do que deverá será entregue, será definido em sala em conjunto
 Com o objetivo de aprimorar nossas aulas de forma contínua, adaptando-as às necessidades dos participantes e abrindo espaço para avaliações e opiniões, desenvolvemos uma ficha de feedback personalizada para cada um dos três dias de aulas do nosso curso.
 
 Para acessar as fichas de feedback clique aqui: [Visualizar PDF](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/fe160b437924609bf276b13dc39d749bad60d512/docs/Fichas%20de%20FeedBack-%20CapacitaRobotica.pdf)
-
+Para acessar a ficha de feedback atualizada clique aqui: https://www.canva.com/design/DAGFxlVbnVY/LfKAyQ11fQNpb2gnHzJDZg/edit?utm_content=DAGFxlVbnVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 ## Slide:
 
 Fizemos um slide para auxiliar nas explicações e no desenvolvimento das aulas, pensando também que esse pode ser utilizado como material didático pelos professores em suas futuras aulas. 
