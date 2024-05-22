@@ -8,5 +8,5 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 
 ## Atualização da lista de feedbacks
 
-Durante a Sprint 2, buscamos alinhar e aperfeiçoar nosso projeto. Com isso, atualizamos nossa ficha de feedbacks, para podermos ter uma avaliação positiva de nosso trabalho.
-Para acessar a ficha de feedback atualizada clique aqui: [Visualizar Ficha](https://www.canva.com/design/DAGFxlVbnVY/LfKAyQ11fQNpb2gnHzJDZg/edit?utm_content=DAGFxlVbnVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Durante a Sprint 2, buscamos alinhar e aperfeiçoar nosso projeto. Com isso, atualizamos nossa ficha de feedbacks, para podermos ter uma avaliação positiva de nosso trabalho. Paralelamente, criamos uma lista de presença, para acompanharmos a frequência dos professores, e a partir disso desenvolver o certificado de conclusão do curso. 
+Para acessar a ficha de feedback atualizada clique aqui: [Visualizar ficha, e lista de presença](https://www.canva.com/design/DAGFxlVbnVY/LfKAyQ11fQNpb2gnHzJDZg/edit?utm_content=DAGFxlVbnVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
