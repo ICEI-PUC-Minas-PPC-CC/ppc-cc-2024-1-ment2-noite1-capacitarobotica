@@ -14,10 +14,13 @@ Para acessar a ficha de feedback atualizada clique aqui: [Visualizar ficha, e li
 
 # Experiência do grupo
 
-  .Gabriela Batista: 
-    . Dificuldades:       Senti que grande parte dos professores tem um deficit de conhecimento sobre informatica básica, dificultando assim o desenvolvimento do aprentizado que a capacitação pode oferecer. 
-                          A falta de infaestrutura é visível, principalmente se tratando dos equipamentos tecnologicos, em especifíco o Chromebook, que possui uma limitação quanto a baixar aplicativos. 
-                          Evitando a generalização, mas é perceptivel a falta de interesse de alguns professores, atrapalhando o desenvolvimento de outros.    
-    . Pontos Positivos:   Apesar de faltar alguns componentes nos kits, como o led, eles estão bem novos e em bom estado. 
-                          Observa-se o interesse de alguns quando se trata de montagem dos projetos e entendimento sobre os componentes e softweres. 
-    .Melhorias do Grupo:  É de extrema importância a tentativa da mudança em relação a dinâmica da aula, visto que é um empasse prender a atenção de todos.   
+  **.Gabriela Batista:** 
+   <br /> . Dificuldades:       
+        -Senti que grande parte dos professores tem um deficit de conhecimento sobre informatica básica, dificultando assim o desenvolvimento do aprentizado que a capacitação pode oferecer.<br /> 
+        -A falta de infaestrutura é visível, principalmente se tratando dos equipamentos tecnologicos, em especifíco o Chromebook, que possui uma limitação quanto a baixar aplicativos.<br /> 
+        -Evitando a generalização, mas é perceptivel a falta de interesse de alguns professores, atrapalhando o desenvolvimento de outros.<br /> 
+   <br />  . Pontos Positivos:   
+        -Apesar de faltar alguns componentes nos kits, como o led, eles estão bem novos e em bom estado. <br /> 
+        -Observa-se o interesse de alguns quando se trata de montagem dos projetos e entendimento sobre os componentes e softweres. <br /> 
+   <br /> .Melhorias do Grupo:    
+        -É de extrema importância a tentativa da mudança em relação a dinâmica da aula, visto que é um empasse prender a atenção de todos.
