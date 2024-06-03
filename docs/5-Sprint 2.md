@@ -9,27 +9,20 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 ## Atualização da lista de feedbacks e slide
 
 Durante a Sprint 2, buscamos alinhar e aperfeiçoar nosso projeto. Com isso, atualizamos nossa ficha de feedbacks, para podermos ter uma avaliação positiva de nosso trabalho. Paralelamente, criamos uma lista de presença, para acompanharmos a frequência dos professores, e a partir disso desenvolver o certificado de conclusão do curso. 
-Para acessar a ficha de feedback atualizada clique aqui: [Visualizar ficha, e lista de presença](https://www.canva.com/design/DAGFxlVbnVY/LfKAyQ11fQNpb2gnHzJDZg/edit?utm_content=DAGFxlVbnVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Para acessar a ficha de feedback atualizada clique aqui: [Clique aqui](https://www.canva.com/design/DAGFxlVbnVY/LfKAyQ11fQNpb2gnHzJDZg/edit?utm_content=DAGFxlVbnVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Também realizamos mudanças no slide que usamos, acrescentando mais conteúdos e tornando-o mais visual para facilitar o entendimento dos componentes. Segue o link editável do mesmo:
-https://sgapucminasbrmy.sharepoint.com/personal/1488862_sga_pucminas_br/_layouts/15/guestaccess.aspx?share=EQGbfjyaXdlGr89oCr5_YZEBj07KDA9EFyBuIARipzsdaw&e=QtCXbF
+Também realizamos mudanças no slide que usamos, acrescentando mais conteúdos e tornando-o mais visual para facilitar o entendimento dos componentes. Para visualizá-lo, clique no link a seguir: [Clique aqui](https://sgapucminasbrmy.sharepoint.com/personal/1488862_sga_pucminas_br/_layouts/15/guestaccess.aspx?share=EQGbfjyaXdlGr89oCr5_YZEBj07KDA9EFyBuIARipzsdaw&e=QtCXbF)
 
 
 # Experiência do grupo
 
-No dia 25/05/2024 nosso grupo foi até a Escola Padrão, onde ministramos a aula para 26 professores.
-
 <img src="https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/main/docs/img/AulaEscolaPadrao.png" width="400" height="400"/>
          
-   <br /> . Dificuldades encontradas:       
-        -Grande parte dos professores tem um déficit de conhecimento sobre informatica básica, dificultando o desenvolvimento do aprendizado que a capacitação pode oferecer.<br /> 
-        -A falta de infraestrutura é evidente, especialmente em relação aos equipamentos tecnológicos. Em particular, os Chromebooks apresentam limitações para baixar aplicativos.<br /> 
-        -Evitando a generalização, mas é perceptível a falta de interesse de alguns professores, atrapalhando o desenvolvimento dos demais.<br /> 
-   <br />  . Pontos Positivos:   
-        -Apesar de faltar alguns componentes nos kits, como LEDs, eles estão bem novos e em bom estado. <br /> 
-        -Observa-se o interesse de alguns professores na montagem dos projetos e no entendimento dos componentes e softwares.<br/> 
-   <br /> .Melhorias do Grupo:    
-        -É de extrema importância tentar mudar a dinâmica da aula, visto que é um desafio prender a atenção de todos.
+No dia 25/05/2024, nosso grupo visitou a Escola Padrão, onde ministramos uma aula, com duração de duas horas, para 26 professores. Durante a atividade, encontramos algumas dificuldades. A maioria dos professores apresentou um déficit de conhecimento em informática básica, o que dificultou o desenvolvimento do aprendizado proporcionado pela capacitação. Além disso, a infraestrutura tecnológica da escola mostrou-se inadequada, especialmente no que se refere aos Chromebooks, que possuem limitações para baixar aplicativos. Observamos também uma falta de interesse por parte de alguns professores, o que prejudicou o andamento da aula para os demais.
+
+Apesar das dificuldades, houve pontos positivos. Os kits utilizados, embora faltando alguns componentes como LEDs, estavam em bom estado e eram novos. Notamos também o interesse de alguns professores na montagem dos projetos e na compreensão dos componentes e softwares.
+
+Para melhorar a experiência e a produtividade das aulas, precisamos pensar em alternativas para prender a atenção dos participantes e facilitar seu entendimento, uma alternativa seria explicar a teoria dos componentes, enquanto executamos a prática do projeto, afim de obter maior conhecimento de cada um deles. Paralelamente, trazermos turmas menores, para que possamos atendê-los de forma individual e esclarecermos todas suas dúvidas.
        
   ## Feedback dos professores
 
