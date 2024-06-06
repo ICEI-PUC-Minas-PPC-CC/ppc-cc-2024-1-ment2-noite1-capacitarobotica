@@ -28,10 +28,10 @@ Também colocamos observações referentes a falta de componentes na apostila. P
 | Participante                          | Email                                   |
 |--------------------------------------|-----------------------------------------|
 | Aline Baraldi                        | aline_baraldi@hotmail.com               |
-| Aparecida D.P.Rossi                  | paipereirarossi@gmail.com               |
+| Aparecida D. P. Rossi                  | paipereirarossi@gmail.com               |
 | André Luiz Bertachi                  | andre.bertachi@educacao.mg.gov.br       |
 | Christiane Ferreira Joaquim Pereira | chistiane.joaquim@educacao.mg.gov.br   |
-| Eliana A.F.Leite                     | elianaflorentino@yahoo.com.br           |
+| Eliana A. F. Leite                     | elianaflorentino@yahoo.com.br           |
 | Fabiana Teixeira Brizola             | fabianamatematica10@gmail.com           |
 | Fabricio Gonçalves                   | fabricioescolapadrao2024@gmail.com      |
 | Felipe Antônio Candido Ribeiro       | felipe.acribe@gmail.com                 |
@@ -45,7 +45,7 @@ Também colocamos observações referentes a falta de componentes na apostila. P
 | Julio Rezende                        | julio.rezende@educacao.mg.gov.br        |
 | Katia Regina de Toledo Silva         | katiatoledo@educacao.mg.gov.br          |
 | Luciene de Fatima dos Santos Calesto | luciene.calesto@educacao.mg.gov.br      |
-| Marcela Campos B.Amaral              | marcela.batista.amaral@educacao.mg.br  |
+| Marcela Campos B. Amaral              | marcela.batista.amaral@educacao.mg.br  |
 | Munike Gonçalves de Rezende          | munike.rezende@educacao.mg.gov.br       |
 | Odir Casarotto                       | odir.casarotto@educacao.mg.gov.br       |
 | Rafaela Terra Neófiti                | rafaela.Terra@hotmail.com               |
