@@ -109,4 +109,10 @@ A partir da experiência na Escola Padrão, podemos destacar algumas lições ap
 
 Apesar dos desafios encontrados, o feedback dos professores mostra que o objetivo de introduzir a robótica nas salas de aula foi alcançado de forma satisfatória. Com ajustes e melhorias na estrutura das capacitações, é possível maximizar o impacto positivo dessa iniciativa, facilitando a integração da robótica como uma ferramenta educativa eficaz e estimulante.
 
-     
+### Certficados
+ Template: 
+  ![Template Certificado](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/assets/146989279/4d287783-7f85-46b2-beea-82e474a9ac97)
+
+ Os 26 certificados estão no arquivo PDF 
+  [Certificados.pdf](https://github.com/user-attachments/files/15748707/Certificados.pdf)
+
