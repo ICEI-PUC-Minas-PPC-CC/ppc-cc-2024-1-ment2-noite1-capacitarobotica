@@ -8,10 +8,10 @@ Vale destacar que, tudo o que foi produzido de registros (fotográficos, lista d
 
 ## Atualização da lista de feedbacks, slide e apostila
 
-Durante a Sprint 2, buscamos alinhar e aperfeiçoar nosso projeto. Com isso, atualizamos nossa ficha de feedbacks, para podermos ter uma avaliação positiva de nosso trabalho. Paralelamente, criamos uma lista de presença, para acompanharmos a frequência dos professores, e a partir disso desenvolver o certificado de conclusão do curso. 
-Para acessar a ficha de feedback atualizada clique aqui: [Clique aqui](https://www.canva.com/design/DAGFxlVbnVY/LfKAyQ11fQNpb2gnHzJDZg/edit?utm_content=DAGFxlVbnVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+Durante a Sprint 2, buscamos alinhar e aperfeiçoar nosso projeto. Com isso, atualizamos nossa ficha de feedbacks, para podermos ter uma avaliação de nosso trabalho. Paralelamente, criamos uma lista de presença, para acompanharmos a frequência dos professores, e a partir disso desenvolver o certificado de conclusão do curso. 
+Para acessar a ficha de feedback atualizada: [Clique aqui](https://www.canva.com/design/DAGFxlVbnVY/LfKAyQ11fQNpb2gnHzJDZg/edit?utm_content=DAGFxlVbnVY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-Realizamos mudanças no slide que usamos, acrescentando mais conteúdos e tornando-o mais visual para facilitar o entendimento dos componentes. Para visualizá-lo, clique no link a seguir: [Clique aqui](https://sgapucminasbrmy.sharepoint.com/personal/1488862_sga_pucminas_br/_layouts/15/guestaccess.aspx?share=EQGbfjyaXdlGr89oCr5_YZEBj07KDA9EFyBuIARipzsdaw&e=QtCXbF)
+Realizamos mudanças no slide que usamos, acrescentando mais conteúdos e tornando-o mais visual para facilitar o entendimento dos componentes. Para visualizá-lo: [Clique aqui](https://sgapucminasbrmy.sharepoint.com/personal/1488862_sga_pucminas_br/_layouts/15/guestaccess.aspx?share=EQGbfjyaXdlGr89oCr5_YZEBj07KDA9EFyBuIARipzsdaw&e=QtCXbF)
 
 Também colocamos observações referentes a falta de componentes na apostila. Para acessar a apostila atualizada: 
 [Clique aqui](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/blob/main/docs/Cartilha_arduino-Modificada2024.pdf)
@@ -109,8 +109,8 @@ A partir da experiência na Escola Padrão, podemos destacar algumas lições ap
 
 Apesar dos desafios encontrados, o feedback dos professores mostra que o objetivo de introduzir a robótica nas salas de aula foi alcançado de forma satisfatória. Com ajustes e melhorias na estrutura das capacitações, é possível maximizar o impacto positivo dessa iniciativa, facilitando a integração da robótica como uma ferramenta educativa eficaz e estimulante.
 
-### Certficados
- Template: 
+## Certificado
+Também idealizamos um certificado individual para cada professor que participou de nossa aula. Segue abaixo o template: 
   ![Template Certificado](https://github.com/ICEI-PUC-Minas-PPC-CC/ppc-cc-2024-1-ment2-noite1-capacitarobotica/assets/146989279/4d287783-7f85-46b2-beea-82e474a9ac97)
 
  Os 26 certificados estão no arquivo PDF 
