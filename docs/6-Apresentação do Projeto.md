@@ -23,3 +23,6 @@ Para o _pitch_ de apresentação, o grupo deverá gravar um vídeo relatando a p
 
 Resumam, em um vídeo com duração de 3 a 5 minutos, tudo o que foi desenvolvido ao longo da prática extensionista.
 O _pitch_ apresentado deverá contemplar todos os participantes e a gravação deverá mostrar o rosto de todos.
+
+
+Link do vídeo: https://drive.google.com/file/d/1PH-CnRLmpBvxdQgduG49BGnqQ3FQFITu/view?usp=sharing
